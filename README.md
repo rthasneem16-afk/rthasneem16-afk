@@ -14,7 +14,7 @@ Passionate about Python Programming, Data Analytics, Power BI, and Machine Learn
   <img src="https://img.shields.io/badge/Location-Thanjavur%20(Adirampattinam)%2C%20Tamil%20Nadu-blue?style=for-the-badge" />
 </p>
 
-
+---
 
 ## 🚀 About Me
 
@@ -38,6 +38,7 @@ Passionate about Python Programming, Data Analytics, Power BI, and Machine Learn
 - Statistical Analysis
 - Data Visualization
 
+---
 
 ## 🛠 Tech Stack
 
@@ -45,6 +46,7 @@ Passionate about Python Programming, Data Analytics, Power BI, and Machine Learn
   <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode" />
 </p>
 
+---
 
 ## 🎓 Education
 
@@ -54,7 +56,7 @@ Passionate about Python Programming, Data Analytics, Power BI, and Machine Learn
 | Higher Secondary (12th) | Tamil Nadu State Board | 2022 | 73% |
 | SSLC (10th) | Tamil Nadu State Board | 2020 | Passed |
 
-
+---
 
 ## 💼 Featured Project
 
