@@ -1,22 +1,4 @@
-## Hi there 👋
-
-<!--
-**rthasneem16-afk/rthasneem16-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-```md
+```html
 <h1 align="center">Hi 👋, I'm Thasneem R</h1>
 
 <h3 align="center">
@@ -62,18 +44,8 @@ Passionate about Python Programming, Data Analytics, Power BI, and Machine Learn
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode" />
 </p>
-
-| Skill | Level |
-|------|------|
-| Python | ⭐⭐⭐☆☆ |
-| HTML | ⭐⭐⭐☆☆ |
-| Power BI | ⭐⭐☆☆☆ |
-| Data Analysis | ⭐⭐⭐☆☆ |
-| Machine Learning | ⭐⭐☆☆☆ |
 
 ---
 
@@ -91,26 +63,19 @@ Passionate about Python Programming, Data Analytics, Power BI, and Machine Learn
 
 ### 🛒 Ecommerce Sales Analysis & Customer Purchase Behaviour Prediction
 
-✅ Analysed ecommerce transaction datasets using **Python (Pandas & NumPy)** to identify:
-
-- Sales trends
-- Seasonal patterns
-- Top-performing product categories
+✅ Analysed ecommerce transaction datasets using **Python (Pandas & NumPy)**
 
 ✅ Built interactive **Power BI dashboards** to visualize:
-
 - Revenue metrics
 - Customer segmentation
 - Purchase frequency
 
 ✅ Applied **Machine Learning classification models** to:
-
 - Predict customer buying behaviour
 - Identify high-value customers
 - Support targeted marketing strategies
 
 ✅ Performed:
-
 - Data Cleaning
 - Feature Engineering
 - Exploratory Data Analysis (EDA)
@@ -171,4 +136,3 @@ Passionate about Python Programming, Data Analytics, Power BI, and Machine Learn
 
 ⭐ Thanks for visiting my profile!
 ```
-
